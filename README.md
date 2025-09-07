@@ -39,5 +39,5 @@ Put `rplidar_sdk.py` to your python project directory
 
 Now you can use the sdk by importing RPlidar :
 ``` py
-from rplidar_sdk.py import RPlidar
+from rplidar_sdk import RPlidar
 ```
